@@ -1,4 +1,4 @@
-Linkeidn Search ARC Browser 🌏 Boost.
+Linkedin Search ARC Browser 🌏 Boost.
 
 This browser extension allows you to focus on your LinkedIn search experience by blocking distractions from the LinkedIn feed. With this boost turned on, you can search LinkedIn with the efficiency of a Google search.
 
